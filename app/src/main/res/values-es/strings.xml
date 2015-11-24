@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Costo Combustible</string>
+    <string name="gallon_price">Precio por Galón</string>
+    <string name="miles_traveled">Millas Recorridas</string>
+    <string name="mpg">Millas por Galòn</string>
+</resources>
