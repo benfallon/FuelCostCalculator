@@ -3,4 +3,5 @@
     <string name="gallon_price">Price per Gallon (USD)</string>
     <string name="miles_traveled">Miles Traveled</string>
     <string name="mpg">Miles per Gallon</string>
+    <string name="select_vehicle">Select Vehicle</string>
 </resources>
